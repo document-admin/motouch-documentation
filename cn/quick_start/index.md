@@ -1,0 +1,8 @@
+summary:概述
+login:登录与加入会议
+homepage:主页
+conference_agenda:会议议程
+join_conference:加入会议
+subscribe_conference:预约会议
+ui_function:会议中界面和功能
+participant_list:参会人列表
